@@ -31,3 +31,7 @@ func TestReverseList(t *testing.T) {
 		result = result.Next
 	}
 }
+
+func TestToGoatLatin(t *testing.T) {
+	t.Log(toGoatLatin("The quick brown fox jumped over the lazy dog"))
+}

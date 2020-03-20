@@ -13,8 +13,13 @@ func TestGaryCode(t *testing.T) {
 func TestNumDecodings(t *testing.T) {
 	t.Log(numDecodings("226"))
 }
+
 func TestPermutation(t *testing.T) {
 	for _, str := range permutation("eqq") {
 		t.Log(str)
 	}
+}
+
+func TestUniquePaths(t *testing.T) {
+	t.Log(uniquePaths(3, 2))
 }

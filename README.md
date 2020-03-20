@@ -20,6 +20,10 @@
 
 * [permutation](https://leetcode-cn.com/problems/permutation-ii-lcci/) dfs+限制
 
-*[reverseList](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) 反转链表
+* [reverseList](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) 反转链表
 
-*[findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) 找中位数
+* [findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) 找中位数
+
+* [uniquePaths](https://leetcode-cn.com/problems/unique-paths/) dp
+
+* [toGoatLatin](https://leetcode-cn.com/problems/goat-latin/) 简单的问题,结果还错了几次
