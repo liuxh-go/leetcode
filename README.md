@@ -13,3 +13,13 @@
 * [grayCode](https://leetcode-cn.com/problems/gray-code/) 背答案题
 
 * [numDecodings](https://leetcode-cn.com/problems/decode-ways/) 动态规划
+
+## 2020.3.20
+
+* [getLeastNumbers](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) 每日一题
+
+* [permutation](https://leetcode-cn.com/problems/permutation-ii-lcci/) dfs+限制
+
+*[reverseList](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) 反转链表
+
+*[findMedianSortedArrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) 找中位数
